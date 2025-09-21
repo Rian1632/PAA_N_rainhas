@@ -54,4 +54,4 @@ public class NRainhasEficiente {
         jogo.resolver();
         System.out.println("Total de soluções: " + jogo.getContagemSolucoes());
     }
-}
+} 
